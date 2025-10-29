@@ -1,3 +1,13 @@
+Memory Table
+
+Variable Name    Data Type
+a                int
+b                int
+temp             int
+
+
+
+
 1b
 
 Sample Int     GCD
